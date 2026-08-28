@@ -7,8 +7,8 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 
-pip install -r requirements.txt
-python prepare_dataset.py
-python check_dataset.py
-python train.py
-python predict.py Images/img2.jpg
+1. pip install -r requirements.txt
+2 .python prepare_dataset.py
+3. python check_dataset.py
+4. python train.py
+5. python predict.py Images/img2.jpg
